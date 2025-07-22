@@ -1,4 +1,4 @@
-# IMU v3 Data Visualization App
+# IMU Data Visualization App
 
 This project is an **IMU data visualization app** developed using **Unity** and the **Android BLE plugin**. It visualizes real-time motion data from **six BNO055 IMU sensors** on a 3D character model, enabling accurate representation of human movement.
 
