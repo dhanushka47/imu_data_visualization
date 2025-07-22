@@ -24,7 +24,7 @@ This project is an **IMU data visualization app** developed using **Unity** and 
 
 | Default View | Side View | T-Pose |
 |--------------|-----------|--------|
-| assets/screenshot1.jpeg | !(assets/screenshot2.jpeg) | ![img3](assets/screenshot3.jpg) |
+| assets/screenshot1.jpeg | !(assets/screenshot2.jpeg) | ![img3](assets/screenshot3.jpeg) |
 
 (Replace the image links with correct relative paths like `assets/yourimage.jpg` in your repo.)
 
